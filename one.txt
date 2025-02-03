@@ -1,4 +1,38 @@
-this is first file
+important note:-
 
-add another file yo yo honey singh 
-hi myself abhay
+how to use GitHub 
+
+1. create a repo from GitHub directly 
+2. open vs code fresh terminal 
+3. type git init
+4. type git add . (if you want to add all the files if you want to add some particular files then just write git add filename)
+5. git commit -m "some message"
+6. then follow up the last three steps that is showing in the new repo of your GitHub
+7. you can add readme file from GitHub directly or just make a file in the vscode with ".md"(markdown)
+8. now your repo will get merge 
+9. now whenever you want to add dlt anything you can do and to update those things in the repo just go to source control in vs code and write a message in the message box (compulsory) then click on the plus icon (stagged file) then click on commit then also click on sync 
+10. the new commits will changes
+11. hence these are the steps to be followed for github
+
+
+
+
+
+
+
+another imp note:-
+
+git is a online software and github is the way to host the source 
+git is a version control 
+study the documentation from (chai docs)
+
+
+
+
+pwd__present working directory used to check that in which folder we are currently present 
+
+to make a new branch write "git switch -c branchname"   (here it is switching the branch as well as creating a new one)
+and to check if a branch is available/exist or not then write---> git checkout branchname
+
+
+fetch matlab le kr aana and push matlab bhejna
